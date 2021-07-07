@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @izotan
-- 👀 I’m interested in game dev and programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++ codes
+- 👀 I’m interested in game dev and game engines
+- 🌱 I’m currently learning C++ and Unity
+- 💞️ I’m looking to collaborate on making better games
 - 📫 How to reach me izotancontato@gmail.com
 
 <!---
