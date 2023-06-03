@@ -1,18 +1,12 @@
-🇺🇸
+## Dionatan Izopo
+<a href="https://www.linkedin.com/in/dionatanizopo/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Dionatan%20Izopo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionatanizopo/"/></a>
+
 -   👋 Hi, my name is Dionatan Izopo and I’m @izotan.
 -   👀 I’m interested in data science and software development.
 -   🌱 I’m currently learning front-end development and machine learning.
 -   💞️ My greatest goal is to turn dreams into reality.
--   💻 You can find other projects of mine [here](https://www.linkedin.com/in/dionatanizopo/).
+-   💻 You can see all the codes here in my Github and see the projects working [here](https://izotan.bohr.io).
 -   📫 How to reach me: dionatan.izopo@gmail.com
-
-🇧🇷
--   👋 Oi, meu nome é Dionatan Izopo e eu sou @izotan.
--   👀 Me interesso por ciência de dados e desenvolvimento de software.
--   🌱 Atualmente estou aprendendo desenvolvimento front-end e machine learning.
--   💞️ Meu maior objetivo é tornar sonhos em realidade.
--   💻 Outros projetos você encontra [aqui](https://www.linkedin.com/in/dionatanizopo/).
--   📫 Como entrar em contato: dionatan.izopo@gmail.com
 
 <!---
 izotan/izotan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
