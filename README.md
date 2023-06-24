@@ -11,13 +11,16 @@
 -   💻 You can see all the codes here in ![my Github](https://github.com/izotan) and see some projects working [here](https://izotan.bohr.io) and others [here](https://izotan.itch.io).
 
 ## Knowledge
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/izotan?tab=repositories&q=&type=&language=javascript&sort=)
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat-square&logo=jupyter)](https://github.com/izotan?tab=repositories&q=&type=&language=jupyter%20notebook&sort=)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/izotan?tab=repositories&q=&type=&language=javascript&sort=)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://github.com/izotan?tab=repositories&q=&type=&language=python&sort=)
-[![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=C%2B%2B)](https://github.com/izotan?tab=repositories&q=&type=&language=c%2B%2B&sort=)
+[![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-black?style=flat-square&logo=scikitlearn)]([https://github.com/izotan/Cursos](https://github.com/izotan?tab=repositories&q=&type=&language=jupyter%20notebook&sort=))
+[![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=013243)]([https://github.com/izotan/Cursos](https://github.com/izotan?tab=repositories&q=&type=&language=jupyter%20notebook&sort=))
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=007ACC)]([https://github.com/izotan)
+[![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=C%2B%2B&logoColor=00599C)](https://github.com/izotan?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://github.com/izotan?tab=repositories&q=&type=&language=html&sort=)
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://github.com/izotan?tab=repositories&q=&type=&language=css&sort=)
+[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)](https://github.com/izotan?tab=repositories&q=&type=&language=css&sort=)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/izotan?tab=repositories&q=&type=&language=javascript&sort=)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/izotan?tab=repositories&q=&type=&language=javascript&sort=)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://github.com/izotan?tab=repositories&q=&type=&language=typescript&sort=)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/izotan/Cursos)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/izotan)
