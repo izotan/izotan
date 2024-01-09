@@ -13,6 +13,7 @@
 ## Knowledge
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat-square&logo=jupyter)](https://github.com/izotan?tab=repositories&q=&type=&language=jupyter%20notebook&sort=)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://github.com/izotan?tab=repositories&q=&type=&language=python&sort=)
+[![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=Excel)](https://github.com/izotan/Cursos/tree/main/Excel)
 [![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-black?style=flat-square&logo=scikitlearn)]([https://github.com/izotan/Cursos](https://github.com/izotan?tab=repositories&q=&type=&language=jupyter%20notebook&sort=))
 [![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=013243)]([https://github.com/izotan/Cursos](https://github.com/izotan?tab=repositories&q=&type=&language=jupyter%20notebook&sort=))
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=007ACC)]([https://github.com/izotan)
@@ -29,16 +30,19 @@
  <summary><h2>Learning</h2></summary>
   
   - [ ] [Data Science](https://cursos.alura.com.br/formacao-data-science)
-    - [ ] Getting Started
-      - [x] ~[Introdution to exploratory data analysis](https://cursos.alura.com.br/certificate/dionatan-izopo/data-science-primeiros-passos?lang=en)~
-      - [ ] [Introdution to data cleaning using Pandas in Python](https://cursos.alura.com.br/course/introducao-python-pandas)
-      - [ ] [Statistics in Python](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas)
-      - [ ] [Sampling probability](https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem)
+    - [x] ~Getting Started~
     - [ ] Linear Regression
-    - [ ] Data Visualization
+    - [x] ~Data Visualization~
     - [ ] Statistical analysis
     - [ ] Practicing Data Science
-  
+
+  - [ ] [Excel](https://cursos.alura.com.br/formacao-excel)
+    - [x] ~Functions~
+    - [x] ~Power View~
+    - [x] ~Power Pivot~
+    - [ ] Power Query
+
+  - [x] ~VBA~
   - [ ] Machine Learning (On hold)
   - [ ] Front-End Development (On hold)
 </details>
