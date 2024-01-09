@@ -23,7 +23,6 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/izotan?tab=repositories&q=&type=&language=javascript&sort=)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://github.com/izotan?tab=repositories&q=&type=&language=typescript&sort=)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/izotan/Cursos)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/izotan)
 
 
 <details> 
