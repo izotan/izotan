@@ -5,46 +5,55 @@
 
 ## :book: About Me
 
--   👀 I’m interested in data science and software development.
--   🌱 I’m currently a [CST Game Development](https://descomplica.com.br/faculdade/tecnologia/jogos-digitais/) student at Faculdade Descomplica.
--   💞️ I love games and problem solving. My greatest goal is to turn my dreams into reality.
--   💻 You can see all the codes here in ![my Github](https://github.com/izotan) and see some projects working [here](https://izotan.bohr.io) and others [here](https://izotan.itch.io).
+-   👀 I’m passionate about data science and software development.
+-   🌱 Currently pursuing a degree in [Game Development](https://descomplica.com.br/faculdade/tecnologia/jogos-digitais/) at Faculdade Descomplica.
+-   🎮 Avid gamer and problem solver with a dream to bring my creative visions to life.
+-   💻 Explore my code repositories on [GitHub](https://github.com/izotan).
+-   🚀 Check out my working projects on [Bohr.io](https://izotan.bohr.io) and my game projects on [itch.io](https://izotan.itch.io).
 
 ## Knowledge
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat-square&logo=jupyter)](https://github.com/izotan?tab=repositories&q=&type=&language=jupyter%20notebook&sort=)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://github.com/izotan?tab=repositories&q=&type=&language=python&sort=)
-[![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=Excel)](https://github.com/izotan/Cursos/tree/main/Excel)
+[![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=excel)](https://github.com/izotan/Cursos/tree/main/Excel)
 [![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-black?style=flat-square&logo=scikitlearn)]([https://github.com/izotan/Cursos](https://github.com/izotan?tab=repositories&q=&type=&language=jupyter%20notebook&sort=))
-[![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=013243)]([https://github.com/izotan/Cursos](https://github.com/izotan?tab=repositories&q=&type=&language=jupyter%20notebook&sort=))
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=007ACC)]([https://github.com/izotan)
+[![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=013243)](https://github.com/izotan/Cursos/tree/main/Data-Science/Numpy)
+[![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)]([https://github.com/izotan)
 [![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=C%2B%2B&logoColor=00599C)](https://github.com/izotan?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://github.com/izotan?tab=repositories&q=&type=&language=html&sort=)
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)](https://github.com/izotan?tab=repositories&q=&type=&language=css&sort=)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/izotan?tab=repositories&q=&type=&language=javascript&sort=)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/izotan?tab=repositories&q=&type=&language=javascript&sort=)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://github.com/izotan?tab=repositories&q=&type=&language=typescript&sort=)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/izotan/Cursos)
+<!---[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/izotan?tab=repositories&q=&type=&language=javascript&sort=)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://github.com/izotan?tab=repositories&q=&type=&language=typescript&sort=)--->
+
 
 
 <details> 
  <summary><h2>Learning</h2></summary>
-  
-  - [ ] [Data Science](https://cursos.alura.com.br/formacao-data-science)
-    - [x] ~Getting Started~
-    - [ ] Linear Regression
-    - [x] ~Data Visualization~
-    - [ ] Statistical analysis
-    - [ ] Practicing Data Science
 
-  - [ ] [Excel](https://cursos.alura.com.br/formacao-excel)
-    - [x] ~Functions~
-    - [x] ~Power View~
-    - [x] ~Power Pivot~
-    - [ ] Power Query
-
-  - [x] ~VBA~
+  <details>
+    <summary><a href="https://cursos.alura.com.br/formacao-data-science">Data Science</summary>
+      
+  - [x] ~Getting Started~
+  - [ ] Linear Regression
+  - [x] ~Data Visualization~
+  - [ ] Statistical analysis
+  - [ ] Practicing Data Science
+  </details>
+          
   - [ ] Machine Learning (On hold)
   - [ ] Front-End Development (On hold)
+
+  <h3>Learned:</h3>
+    <details>
+    <summary><a href="https://cursos.alura.com.br/degree/certificate/f2733ea3-ca8e-481f-b507-8c5ff547969f?lang=pt_BR">Excel</summary>
+      
+  - [x] ~Functions~
+  - [x] ~Power View~
+  - [x] ~Power Pivot~
+  - [x] ~Power Query~
+  - [x] ~VBA~
+    </details>
 </details>
 
 ## 📫 How to reach me
