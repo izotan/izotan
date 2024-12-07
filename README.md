@@ -32,29 +32,42 @@
  <summary><h2>Learning</h2></summary>
 
   <details>
-    <summary><a href="https://cursos.alura.com.br/formacao-data-science">Data Science</summary>
+    <summary>Data Science</summary>
       
-  - [x] ~Getting Started~
-  - [ ] Linear Regression
-  - [x] ~Data Visualization~
-  - [ ] Statistical analysis
-  - [ ] Practicing Data Science
+  - Python
+    - [x] [Matplotlib](https://github.com/izotan/Cursos/tree/main/Data-Science/Introducao-a-Data-Science)
+    - [x] [Pandas](https://github.com/izotan/Cursos/tree/main/Data-Science/Python/Pandas)
+    - [x] [Numpy](https://github.com/izotan/Cursos/tree/main/Data-Science/Python/Numpy)
+    - [ ] Seaborn
+
+  - Data Visualization
+    <details>
+      <summary><a href="https://github.com/izotan/Cursos/tree/main/Excel">Excel</summary>
+
+      - [x] [Excel Basics](https://cursos.alura.com.br/degree/certificate/f2733ea3-ca8e-481f-b507-8c5ff547969f?lang=en)
+      - [x] [Business Intelligence](https://cursos.alura.com.br/degree/certificate/2b01d2bd-606b-4086-a905-f0641fdd4593?lang=en)
+      - [x] [Automations](https://cursos.alura.com.br/degree/certificate/d2bf89d7-a881-4c32-9932-61dca76025d7?lang=en)
+    </details>
+    
+  - Machine Learning
+    - [ ] Scikit-Learn
+    - [ ] Pythorch
+    - [ ] TensorFlow
+          
+  - Statistical analysis
+    
+  - Forecasting
+    - [ ] Prophet
+
   </details>
           
-  - [ ] Machine Learning (On hold)
-  - [ ] Front-End Development (On hold)
+  - Game Development (On hold)
+  - Front-End Development (On hold)
 
   <h3>Learned:</h3>
-    <details>
-    <summary><a href="https://cursos.alura.com.br/degree/certificate/f2733ea3-ca8e-481f-b507-8c5ff547969f?lang=pt_BR">Excel</summary>
-      
-  - [x] ~Functions~
-  - [x] ~Power View~
-  - [x] ~Power Pivot~
-  - [x] ~Power Query~
-  - [x] ~VBA~
-    </details>
+
 </details>
+
 
 ## 📫 How to reach me
 [![LinkedIn Badge](https://img.shields.io/badge/-Dionatan%20Izopo-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dionatanizopo/) <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dionatan.izopo@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-dionatan@gmail.com-c71610?style=flat-square&logo=gmail&logoColor=white"></a>
