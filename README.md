@@ -14,7 +14,8 @@
 ## Knowledge
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat-square&logo=jupyter)](https://github.com/izotan?tab=repositories&q=&type=&language=jupyter%20notebook&sort=)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://github.com/izotan?tab=repositories&q=&type=&language=python&sort=)
-[![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=excel)](https://github.com/izotan/Cursos/tree/main/Excel)
+[![SQL](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite&logoColor=%23003B57)](https://github.com/izotan?tab=repositories&q=&type=&language=sql&sort=)
+[![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=googlesheets&logoColor=34A853)](https://github.com/izotan/Cursos/tree/main/Excel)
 [![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-black?style=flat-square&logo=scikitlearn)]([https://github.com/izotan/Cursos](https://github.com/izotan?tab=repositories&q=&type=&language=jupyter%20notebook&sort=))
 [![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=013243)](https://github.com/izotan/Cursos/tree/main/Data-Science/Numpy)
 [![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)]([https://github.com/izotan)
@@ -33,7 +34,12 @@
 
   <details>
     <summary>Data Science</summary>
-      
+
+  - Python
+    - [x] [SQLite Online](https://github.com/izotan/Cursos/tree/main/Data-Science/SQL/SQLite%20Online)
+    - [ ] SQL Server
+    - [ ] MySQL
+          
   - Python
     - [x] [Matplotlib](https://github.com/izotan/Cursos/tree/main/Data-Science/Introducao-a-Data-Science)
     - [x] [Pandas](https://github.com/izotan/Cursos/tree/main/Data-Science/Python/Pandas)
